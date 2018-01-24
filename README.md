@@ -1,11 +1,13 @@
 # techsperience-oek
 Prototype for OEK
 
-##How to install in local environment
-#In terminal write the following commands:
+<h3>How to install in local environment</h3>
+<p>In terminal write the following commands:</p>
 
-<p>cd Desktop</p>
-#git clone https://github.com/FlamurAliloviq/techsperience-oek.git
-#cd techsperience-oek
-#npm install
-#npm start (or nodemon)
+<ul>
+<li>cd Desktop</li>
+<li>git clone https://github.com/FlamurAliloviq/techsperience-oek.git</li>
+<li>cd techsperience-oek</li>
+<li>npm install</li>
+<li>npm start (or nodemon)</li>
+</ul>
