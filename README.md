@@ -2,6 +2,7 @@
 Prototype for OEK
 
 <h3>How to install in local environment</h3>
+<hr>
 <p>In terminal write the following commands:</p>
 
 <ul>
